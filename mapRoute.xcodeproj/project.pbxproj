@@ -13,6 +13,7 @@
 		B81B5A5226A1D45E0073B78B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B81B5A5026A1D45E0073B78B /* Main.storyboard */; };
 		B81B5A5426A1D4600073B78B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B81B5A5326A1D4600073B78B /* Assets.xcassets */; };
 		B81B5A5726A1D4600073B78B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B81B5A5526A1D4600073B78B /* LaunchScreen.storyboard */; };
+		B81B5A5F26A1DB8F0073B78B /* AlertContoller.swift in Sources */ = {isa = PBXBuildFile; fileRef = B81B5A5E26A1DB8F0073B78B /* AlertContoller.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B81B5A5326A1D4600073B78B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B81B5A5626A1D4600073B78B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B81B5A5826A1D4600073B78B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B81B5A5E26A1DB8F0073B78B /* AlertContoller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertContoller.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B81B5A4A26A1D45E0073B78B /* AppDelegate.swift */,
 				B81B5A4C26A1D45E0073B78B /* SceneDelegate.swift */,
 				B81B5A4E26A1D45E0073B78B /* ViewController.swift */,
+				B81B5A5E26A1DB8F0073B78B /* AlertContoller.swift */,
 				B81B5A5026A1D45E0073B78B /* Main.storyboard */,
 				B81B5A5326A1D4600073B78B /* Assets.xcassets */,
 				B81B5A5526A1D4600073B78B /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B81B5A4F26A1D45E0073B78B /* ViewController.swift in Sources */,
+				B81B5A5F26A1DB8F0073B78B /* AlertContoller.swift in Sources */,
 				B81B5A4B26A1D45E0073B78B /* AppDelegate.swift in Sources */,
 				B81B5A4D26A1D45E0073B78B /* SceneDelegate.swift in Sources */,
 			);
